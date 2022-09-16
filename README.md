@@ -154,8 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Agustina Hernández- [Github](https://github.com/MoonBeeJPG)  
-Nicolle Shiskobcki - [Github](https://github.com/NikShiskobcki)  
 
 Agustina Hernandez - [Github](https://github.com/MoonBeeJPG)
 Nicolle Shiskobcki - [Github](https://github.com/NikShiskobcki)
